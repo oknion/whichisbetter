@@ -1,3 +1,5 @@
+/activator*
+test
 logs
 target
 /.idea
